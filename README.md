@@ -1,10 +1,10 @@
 # Sentiment_Analysis_using_ML
 Analyzes the statement and decides whether it is positive or negative.(Using user-defined datset)
 
-Sentiment Analysis AI Project
+Sentiment Analysis AI Project:
 This project is a sentiment analysis tool that uses machine learning to classify text into positive (1) or negative (0) sentiment. It efficiently processes data, supports larger input datasets, and includes various enhanced features to provide accurate sentiment predictions.
 
-Features
+Features:
 Efficient Model: Optimized for speed and accuracy, capable of handling larger datasets.
 Customizable Data Input: Supports diverse datasets in .csv format.
 
@@ -52,6 +52,10 @@ Copy code
 "The movie was fantastic! I enjoyed every moment."  
 Predicted sentiment:
 Positive (1)  
+
+Output Samples:
+
+![image](https://github.com/user-attachments/assets/da7a0d1a-05a7-44c6-9735-182286a04404)
 
 Email: rahulvijay308@gmail.com
 GitHub: RAHUL-V308
